@@ -1,0 +1,25 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	swordthing: {
+		DisplayName: swordthing
+		Tooltip: ""
+	}
+
+	gunthing: {
+		Tooltip: ""
+		DisplayName: gunthing
+	}
+
+	bombthing: {
+		DisplayName: bombthing
+		Tooltip: ""
+	}
+
+	cannonthing: {
+		DisplayName: cannonthing
+		Tooltip: ""
+	}
+}
+
+Projectiles.projectilething.DisplayName: projectilething
